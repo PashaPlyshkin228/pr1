@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace prak111
+namespace prak111//ало почему не меняется
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

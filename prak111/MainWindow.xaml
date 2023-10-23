@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:prak111"
         mc:Ignorable="d"
         Title="рпм практическая №1" Height="450" Width="800" ResizeMode="NoResize">
-    <Grid>
+    <Grid Background="#FFD5D7F7">
         <Menu VerticalAlignment="Top">
             <MenuItem ToolTip="Меню программы" Header="Файл">
                 <MenuItem ToolTip="Информация о программе" x:Name="Program" Click="Program_Click" Header="О программе"></MenuItem>
